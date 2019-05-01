@@ -1,3 +1,3 @@
 # BasicAuthenticationMiddleware
 
-With ASP.NET Core 2.2
+ASP.NET Core 2.2 Web Application
